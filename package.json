@@ -1,0 +1,16 @@
+{
+  "name": "react-native-baidu-map-wabg",
+  "version": "0.1.2",
+  "description": "\"基于react-native-baidu-map添加了一些自定义属性或方法\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wabg",
+    "react-native",
+    "baidu-map"
+  ],
+  "author": "showgold lovebing",
+  "license": "ISC"
+}
